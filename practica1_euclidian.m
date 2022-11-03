@@ -9,7 +9,7 @@ c1=[1 2 3 2 3; 2 2 4 7 9];
 c2=[3 4 7 8 9; 5 6 -1 2 3];
 c3=[10 10 11 12 13; 1 7 4 -2 9];
 %vector desconocido 
-vector=[5;3];
+vector=[0;0];
 
 %Graficando las clases 
 figure(1)
